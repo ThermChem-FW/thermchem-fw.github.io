@@ -1,8 +1,11 @@
 ---
-layout: single
-title: About the ThermChem-FW Project
+#title: About the ThermChem-FW Project
 permalink: /about/
+
+layout: splash
+classes: wide
 ---
+# About the ThermChem-FW Project
 
 <!-- This is the project's public abstract.  It could be something different.  We could also expand on it. -->
 

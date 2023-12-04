@@ -1,16 +1,18 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: Integrated Thermomechanical Model of First Wall Components Under Evolving Chemistry and Microstructure During Fusion Reactor Operation
 
-layout: single # Default: home, but that includes a list of posts
+excerpt:  ThermChem-FW
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/first-wall-mesg.png
+
+#layout: single # Default: home, but that includes a list of posts
 
 toc: true
 toc_sticky: true
 ---
-
-## Project Title
-
-Integrated Thermomechanical Model of First Wall Components Under Evolving Chemistry and Microstructure During Fusion Reactor Operation (ThermChem-FW)
 
 ## Project Summary
 
