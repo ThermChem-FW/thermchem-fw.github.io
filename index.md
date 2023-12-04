@@ -65,6 +65,6 @@ We will also carry out assessments of the uncertainties associated with various 
 
 ## Sponsor
 
-This project is part of the [Scientific Discovery through Advanced Computing](http://www.scidac.gov/) (SciDAC) program, and is jointly sponsored by the [Fusion Energy Sciences](http://science.energy.gov/fes/) (FES) and [Advanced Scientific Computing Research](http://science.energy.gov/ascr/) (ASCR) programs within the [U.S. Department of Energy](http://energy.gov/) [Office of Science](http://science.energy.gov/).  The project is part of the fifth funding cycle of the SciDAC program, and the project's period of performance is 2023-09-22/2027-09-21.
+This project is part of the [Scientific Discovery through Advanced Computing](http://www.scidac.gov/) (SciDAC) program, and is jointly sponsored by the [Fusion Energy Sciences](http://science.energy.gov/fes/) (FES) and [Advanced Scientific Computing Research](http://science.energy.gov/ascr/) (ASCR) programs within the [U.S. Department of Energy](http://energy.gov/) [Office of Science](http://science.energy.gov/).  The project is part of the fifth funding cycle of the SciDAC program, under FOA [DE-FOA-0002924](https://science.osti.gov/grants/FOAs/FOAs/2023/DE-FOA-0002924). The project's period of performance is 2023-09-22/2027-09-21.
 
 [![DOE Office of Science logo](/assets/images/RGB_Color-Seal_Green-Mark_SC_Horizontal-350x60.png){: .align-right}](http://science.energy.gov/)
