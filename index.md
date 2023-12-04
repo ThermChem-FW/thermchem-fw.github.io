@@ -16,7 +16,7 @@ toc_sticky: true
 
 ## Project Summary
 
-![Representative first wall/blanket design](/assets/images/first-wall-mesg-200.png){: .align-right}
+![Representative first wall/blanket design](/assets/images/first-wall-mesg-150.png){: .align-right}
 
 The objective of this project is to develop an integrated computational model linking the materials physics scale with the component-level scale to simulate the thermomechanical response of the full first wall/blanket structures during fusion reactor operation.  Phenomena of interest at the three modeling scales include:
 
