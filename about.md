@@ -17,9 +17,10 @@ Thermomechanical modeling of these structural elements is in itself extremely ch
 
 To that end, a team of scientists with expertise in materials science at all spatial and temporal scales has been merged with a team of computer scientists specializing in machine learning, high-performance computing, large-scale data processing, and advanced algorithm development. The combined team, assembled into a Center which we call ‘ThermChem-FW’ combines members from academia and National Labs, male and female, early career and established, specifically assembled to benefit from this broad expertise and lead to advances that would not be possible without the sum of all its parts. To assist us in carrying out this work, we will take advantage of opportunities to access leadership-class computational resources offered by DOE. Ultimately, one of the priorities in ThermChem-FW will be to train the workforce of the future in fusion energy and materials by hiring postdoctoral researchers at all participating institutions and involving graduate students at universities in the project.
 
-<!-- Replace with proposal Fig. 2 -->
-{% include figure image_path="/assets/images/first-wall-mesg.png" alt="A representative first wall/blanket design from ITER." 
-caption="A representative first wall/blanket design from ITER." %}
+<figure class="half">
+    <figcaption style="width: calc(50% - 0.5em);">Schematic diagram of the phenomenology of damage accumulation in plasma-facing materials. The system is subjected to near-surface He and H deposition as well as deep-penetrating fusion neutrons. He/H deposition creates subsurface bubbles that can trap-mutate creating morphological changes in the surface. Neutrons create displacement cascades leading to the formation of voids and interstitial loops, as well as transmutation atom clusters. The shaded area separating both regions connects the near-surface with the material bulk, and is the subject of this proposal. The figure is not to scale.</figcaption>
+    <a href="/assets/images/damage-accumulation-cropped-1248x729.jpg"><img src="/assets/images/damage-accumulation-cropped-1248x729.jpg"></a>
+</figure>
 
 <!-- Maybe add proposal Fig. 1 in some form? -->
 
