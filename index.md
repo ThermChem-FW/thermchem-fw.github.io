@@ -42,13 +42,11 @@ We will also carry out assessments of the uncertainties associated with various 
 [Learn more...](/about/){: .btn .btn--inverse .align-right}
 <br>
 
-## Proposal
-
-Here is a [public version of our original proposal](/assets/documents/proposal-public.pdf).  Note that this version does *not* include scope changes in response to pre-award budget negotiations.
-
 ## Publications and Presentations
 
 *We're just getting started.  We'll add papers and publications once we start producing them.*
+
+But if you're looking for more information about our plans, here is a [public version of our original proposal](/assets/documents/proposal-public.pdf).  Note that this version does *not* include scope changes in response to budget changes at award time.
 
 ## Team
 
