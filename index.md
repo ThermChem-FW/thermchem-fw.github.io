@@ -56,7 +56,7 @@ But if you're looking for more information about our plans, here is a [public ve
 [![INL logo](/assets/images/INL_logo_2_transparent-200.png){: .align-center}](https://inl.gov/) | Cody Permann (ASCR) | Peter German, Benjamin Spencer, Dewen Yushu
 [![ORNL logo](/assets/images/ORNL-200.png){: .align-center}](https://www.ornl.gov/) | David E. Bernholdt (ASCR)<br>Paul Humrickhouse (FES) | Sergey Yakubov
 [![PNNL logo](/assets/images/PNNL_Color_Logo_Horizontal-cropped-tighter-transparent-200.png){: .align-center}](https://www.pnnl.gov/) | Wahyu Setyawan (FES) | Yucheng Fu
-[![SNL logo](/assets/images/SNL_Stacked_Black_Blue-200.png){: .align-center}](https://www.sandia.gov/) | Mary Alice Cusentino (FES)<br>Khachik Sargsyan (ASCR) |
+[![SNL logo](/assets/images/SNL_Stacked_Black_Blue-200.png){: .align-center}](https://www.sandia.gov/) | Mary Alice Cusentino (FES)<br>Khachik Sargsyan (ASCR) | Cristian Lacey
 [![Stony Brook U logo](/assets/images/SBU-stack_2clr_rgb_72ppi-200.png){: .align-center}](https://www.stonybrook.edu/) | Jason Trelewicz (FES) | Yusheng Jin, Anus Manzoor, Spencer Thomas
 [![U Miami logo](/assets/images/UMiami_informal_cmyk-200.png){: .align-center}](https://welcome.miami.edu/) | Giacomo Po (FES) | Abdulmohssen Abaalkhail, Harsh Dudhatra
 [![U Wisconsin logo](/assets/images/uw-logo-horizontal-color-web-digital-200.png){: .align-center}](https://www.wisc.edu/) | Izabela Szlufarska (FES) | Dane Morgan, Rafi Ullah
