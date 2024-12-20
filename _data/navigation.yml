@@ -1,4 +1,7 @@
 main:
+  - title: "Publications"
+    description: "Publications and presentions from the Project"
+    url: /publications/
   - title: "About"
     description: "About the ThermChem-FW Project"
     url: /about/

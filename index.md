@@ -39,14 +39,24 @@ The objective of this project is to develop an integrated computational model li
 
 We will also carry out assessments of the uncertainties associated with various phenomena to inform the integrated models.
 
-[Learn more...](/about/){: .btn .btn--inverse .align-right}
+[Learn more...](/about/){: .btn .btn--inverse}
 <br>
 
 ## Publications and Presentations
 
-*We're just getting started.  We'll add papers and publications once we start producing them.*
+Our most recent publications include...
 
-But if you're looking for more information about our plans, here is a [public version of our original proposal](/assets/documents/proposal-public.pdf).  Note that this version does *not* include scope changes in response to budget changes at award time.
+**Publications**<br>
+{% bibliography --max 3 --group_by none -f publications %}
+
+**Presentations**<br>
+{% bibliography --max 3 --group_by none -f presentations %}
+
+**Other Documents**<br>
+{% bibliography --max 3 --group_by none -f other %}
+
+[See all...](/publications/){: .btn .btn--inverse}
+<br>
 
 ## Team
 
