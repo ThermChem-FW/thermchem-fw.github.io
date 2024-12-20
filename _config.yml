@@ -35,7 +35,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-include-cache
-  - jekyll-remote-theme
   - jekyll-scholar
   - jekyll-regex-replace
 
