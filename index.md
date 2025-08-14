@@ -63,13 +63,13 @@ Our most recent publications include...
  Institution | Principal Investigator(s)* | Additional Personnel
 :-----------:|---------------------------|---------------------
 [![UCLA logo](/assets/images/UCLA-logo-200.jpg){: .align-center}](https://www.ucla.edu/) | **Jaime Marian (FES, Lead PI)** | Abhijeet Gangan, Alan He, Shao-Ching Huang, Scarlett Liang, Lily Wang
-[![INL logo](/assets/images/INL_logo_2_transparent-200.png){: .align-center}](https://inl.gov/) | Cody Permann (ASCR) | Peter German, Benjamin Spencer, Dewen Yushu
+[![INL logo](/assets/images/INL_logo_2_transparent-200.png){: .align-center}](https://inl.gov/) | Cody Permann (ASCR) | Peter German, Benjamin Spencer<br><br>Alumni: Dewen Yushu
 [![ORNL logo](/assets/images/ORNL-200.png){: .align-center}](https://www.ornl.gov/) | David E. Bernholdt (ASCR)<br>Paul Humrickhouse (FES) | Monica Gehrig, Moataz Harb, Sergey Yakubov
 [![PNNL logo](/assets/images/PNNL_Color_Logo_Horizontal-cropped-tighter-transparent-200.png){: .align-center}](https://www.pnnl.gov/) | Wahyu Setyawan (FES) | Yucheng Fu
 [![SNL logo](/assets/images/SNL_Stacked_Black_Blue-200.png){: .align-center}](https://www.sandia.gov/) | Mary Alice Cusentino (FES)<br>Khachik Sargsyan (ASCR) | Cristian Lacey
 [![Stony Brook U logo](/assets/images/SBU-stack_2clr_rgb_72ppi-200.png){: .align-center}](https://www.stonybrook.edu/) | Jason Trelewicz (FES) | Yusheng Jin, Anus Manzoor, Spencer Thomas
 [![U Miami logo](/assets/images/UMiami_informal_cmyk-200.png){: .align-center}](https://welcome.miami.edu/) | Giacomo Po (FES) | Abdulmohssen Abaalkhail, Harsh Dudhatra
-[![U Wisconsin logo](/assets/images/uw-logo-horizontal-color-web-digital-200.png){: .align-center}](https://www.wisc.edu/) | Izabela Szlufarska (FES) | Dane Morgan, Rafi Ullah
+[![U Wisconsin logo](/assets/images/uw-logo-horizontal-color-web-digital-200.png){: .align-center}](https://www.wisc.edu/) | Izabela Szlufarska (FES) | Dane Morgan, Maceij Polak, Chen Shen, Rafi Ullah
 [![Villanova U logo](/assets/images/VU03Blue-200.png)](https://www1.villanova.edu/university.html) | David Cereceda (FES) | Jie Peng
 
 <!-- it would be nice if we could render this in a "footnote sized" font, but I don't know how. -->
