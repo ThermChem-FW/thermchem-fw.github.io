@@ -70,7 +70,7 @@ Our most recent publications include...
 [![Stony Brook U logo](/assets/images/SBU-stack_2clr_rgb_72ppi-200.png){: .align-center}](https://www.stonybrook.edu/) | Jason Trelewicz (FES) | Yusheng Jin, Anus Manzoor, Spencer Thomas
 [![U Miami logo](/assets/images/UMiami_informal_cmyk-200.png){: .align-center}](https://welcome.miami.edu/) | Giacomo Po (FES) | Abdulmohssen Abaalkhail, Harsh Dudhatra
 [![U Wisconsin logo](/assets/images/uw-logo-horizontal-color-web-digital-200.png){: .align-center}](https://www.wisc.edu/) | Izabela Szlufarska (FES) | Dane Morgan, Maceij Polak, Chen Shen, Rafi Ullah
-[![Villanova U logo](/assets/images/VU03Blue-200.png)](https://www1.villanova.edu/university.html) | David Cereceda (FES) | Jie Peng
+[![Villanova U logo](/assets/images/VU03Blue-200.png)](https://www1.villanova.edu/university.html) | David Cereceda (FES) | Alumni: Jie Peng
 
 <!-- it would be nice if we could render this in a "footnote sized" font, but I don't know how. -->
 *\* PIs are listed for the Fusion Energy Sciences (FES) and Advanced Scientific Computing Research (ASCR) funding components, as appropriate.  The first person listed is the institutional PI.*
