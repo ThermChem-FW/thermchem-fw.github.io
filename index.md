@@ -62,7 +62,7 @@ Our most recent publications include...
 
  Institution | Principal Investigator(s)* | Additional Personnel
 :-----------:|---------------------------|---------------------
-[![UCLA logo](/assets/images/UCLA-logo-200.jpg){: .align-center}](https://www.ucla.edu/) | **Jaime Marian (FES, Lead PI)** | Abhijeet Gangan, Alan He, Shao-Ching Huang, Scarlett Liang, Lily Wang
+[![UCLA logo](/assets/images/UCLA-logo-200.jpg){: .align-center}](https://www.ucla.edu/) | **Jaime Marian (FES, Lead PI)** | Abhijeet Gangan, Alan He, Shao-Ching Huang, Scarlett Liang, Lily Wang, Jinxin Yu
 [![INL logo](/assets/images/INL_logo_2_transparent-200.png){: .align-center}](https://inl.gov/) | Cody Permann (ASCR) | Peter German, Benjamin Spencer<br><br>Alumni: Dewen Yushu
 [![ORNL logo](/assets/images/ORNL-200.png){: .align-center}](https://www.ornl.gov/) | David E. Bernholdt (ASCR)<br>Paul Humrickhouse (FES) | Monica Gehrig, Moataz Harb, Sergey Yakubov
 [![PNNL logo](/assets/images/PNNL_Color_Logo_Horizontal-cropped-tighter-transparent-200.png){: .align-center}](https://www.pnnl.gov/) | Wahyu Setyawan (FES) | Yucheng Fu
